@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304192294041",
+    "project_id": "iskissors-m-app",
+    "storage_bucket": "iskissors-m-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304192294041:android:b8610952293fbffd3a7c08",
+        "android_client_info": {
+          "package_name": "com.example.iskissors_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7rh8Vky_Bq2ISr3KyrMXoFAMhIHa_Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
